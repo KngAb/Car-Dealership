@@ -10,7 +10,6 @@ return [
     //APP VARIABLE
     'app_name' => 'AB Autos',
     'base_url' => 'http://localhost/Car_Dealership/public',
-
     'session_name' => 'AB Autos Session',
     'csrf_tokem_name' => 'csrf_token',
 
