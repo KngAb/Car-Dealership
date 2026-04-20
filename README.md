@@ -38,4 +38,5 @@
 
 
 ![Admin Dashboard Preview](public/assets/images/screenshots/admindashboard.png)
+---
 ![Homepage Preview](public/assets/images/screenshots/homepage.png)
